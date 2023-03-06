@@ -38,7 +38,7 @@ let data = {
       },
       {
         productId: 6,
-        productName: "Fruit & Nut",
+        productName: "Fruit  Nut",
         category: "Chocolate",
         description: "60 g",
       },
